@@ -1,4 +1,5 @@
-# mac-kill-all
+# Mac Kill All
+
 This script designed to kill all non-essential processes on a macOS machine, allowing the user to free up system resources by terminating processes that are not critical for the system's operation.
 
 The script identifies essential processes and protects them from being terminated, while killing non-essential ones. It also provides user confirmation, logging, and error handling for safer execution.
